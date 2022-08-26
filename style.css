@@ -45,3 +45,65 @@
 .nav-link{
     color: black;
 }
+#text-cat{
+    font-size: 25px;
+    text-align: center;
+}
+.bar-under-cat{
+    
+    border-top: 10px solid rgb(226, 29, 29);
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 46%;
+}
+
+.categories{
+    
+    height: 400px;
+    
+    
+}
+#pale-order{
+    width: 100%;
+}
+
+
+.bag-img{
+    height: 50%;
+}
+.bag p{
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 0;
+   padding-left: 0;
+   text-align: center;
+}
+.bag{
+    padding: 2px 20px;
+    width: 80%;
+    box-shadow: 2px 2px 5px rgb(121, 113, 106);
+}
+
+
+.midle{
+    height: 100%;
+    
+}
+.midle-cat{
+    margin: auto;
+    
+}
+.midle-cat-bg{
+    padding: 2px 20px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 5px rgb(161, 155, 149);
+}
+.midle-cat-bg p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+}
+footer{
+    font-size: 12px;
+    text-align: center;
+}
